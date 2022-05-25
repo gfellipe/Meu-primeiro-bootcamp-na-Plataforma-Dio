@@ -1,0 +1,9 @@
+Link para fazer o Bootcamp na plataforma DIO: https://www.dio.me/
+A DIO e uma Plataforma com varios cursos e Bootcamps.
+
+Estou fazendo atualmente o bootcamp de: Spred Fullstack Developer
+Primeiro temos as boas vindas ao Bootcamp: Spread Fullsatck Developer
+Segundo uma mentoria que e uma aula inaugural
+Depois o curso de Lógica e Programação Essencial
+Introdução ao Git e ao Github
+Para testar seu conhecimento você cria seu primeiro Repositório no Github para compartilhar seu progresso.
